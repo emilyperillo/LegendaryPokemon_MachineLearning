@@ -122,5 +122,3 @@ The workflow is organized into three annotated areas:
 **Emily Perillo**  
 M.Sc. Data Science, Università degli Studi di Milano-Bicocca  
 B.Sc. Business Administration
-
-*Machine Learning course project — September 2026 exam session, Team 61.*
